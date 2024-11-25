@@ -1,0 +1,1 @@
+A full-stack stock trading platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project replicates core functionalities of the Zerodha platform, including real-time stock data visualization, user authentication, and portfolio management.
